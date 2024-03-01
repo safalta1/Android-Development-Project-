@@ -17,7 +17,7 @@ If I had to describe this project in three (3) emojis, they would be: **❤️�
 
 The following REQUIRED features are completed:
 
-- [X ] Change profile name to your name
+- [X] Change profile name to your name
 - [X] Change profile bio text to a personal bio about yourself
 - [X] Modify hobby section to include your top three (3) hobbies
 
