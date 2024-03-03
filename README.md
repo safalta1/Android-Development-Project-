@@ -3,7 +3,7 @@
 
 Submitted by: **Minakshi Thapa**
 
-Time spent: **1.5** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Summary
 
